@@ -4,6 +4,5 @@ public class PaymentPage {
         System.out.println("Updated by Vishal");
 
         System.out.println("Module updated on 3rd March: Vishal");
-        System.out.println("Module updated on 3rd March: Vishal");
     }
 }
